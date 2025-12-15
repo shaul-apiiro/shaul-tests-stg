@@ -7,4 +7,4 @@ some mock secrets:
 export REGION=us-east-2
 ```
 
-tester
+tester 2

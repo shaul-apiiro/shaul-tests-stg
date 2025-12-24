@@ -6,4 +6,4 @@ some mock secrets:
 ```sh
 export REGION=us-east-2
 ```
-work?
+test if it works?
